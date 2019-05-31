@@ -1,0 +1,22 @@
+[
+    {
+	    "id": 1,
+	    "title": "Сartoon"
+    },
+    {
+        "id": 2,
+        "title": "Movie"
+    },
+    {
+        "id": 3,
+        "title": "TV series"
+    },
+    {
+        "id": 4,
+        "title": "Anime"
+    },
+    {
+        "id": 5,
+        "title": "News"
+    }
+]

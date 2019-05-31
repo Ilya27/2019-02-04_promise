@@ -1,0 +1,37 @@
+[ 
+    {
+        "id": 1,
+        "title": "The Guilty",
+        "description": "Alarm dispatcher Asger Holm answers an emergency call from a kidnapped woman. When the call is suddenly disconnected, the search for the woman and her kidnapper begins. With the phone as his only tool, Asger enters a race against time to save the endangered woman. But soon he realizes that he is dealing with a crime that is far bigger than he first thought.",
+        "runtime": "85 min",
+        "category_id": 2
+    },
+    {
+        "id": 2,
+        "title": "A Quiet Place",
+        "description": "Two parents do what it takes to keep their children safe in a world full of creatures hunting every sound they can hear. Not a sound can be heard from the family hiding in silence, but all it takes is one noise and everything can go wrong.",
+        "runtime": "90 min",
+        "category_id": 2
+    }, 
+    {
+        "id": 3,
+        "title": "Deadpool",
+        "description": "After losing Vanessa (Morena Baccarin), the love of his life, 4th-wall breaking mercenary Wade Wilson aka Deadpool (Ryan Reynolds) must assemble a team and protect a young, full-figured mutant Russell Collins aka Firefist (Julian Dennison) from Cable (Josh Brolin), a no-nonsense, dangerous cyborg from the future, and must also learn the most important lesson of all: to be part of a family again.",
+        "runtime": "119 min | 134 min (Super Duper Cut)",
+        "category_id": 2
+    }, 
+    {
+        "id": 4,
+        "title": "The Umbrella Academy",
+        "description": "On the same day in October 1989, forty-three infants are inexplicably born to random, unconnected women who showed no signs of pregnancy the day before. Seven are adopted by Sir Reginald Hargreeves, a billionaire industrialist, who creates The Umbrella Academy and prepares his 'children ' to save the world. But not everything went according to plan. In their teenage years, the family fractured and the team disbanded. Now, the six surviving thirty-something members reunite upon the news of Hargreeves' passing. Luther, Diego, Allison, Klaus, Vanya and Number Five work together to solve a mystery surrounding their father's death. But the estranged family once again begins to come apart due to their divergent personalities and abilities, not to mention the imminent threat of a global apocalypse.",
+        "runtime": "60 min(One series)",
+        "category_id": 3
+    }, 
+    {
+        "id": 5,
+        "title": "Spider-Man Into The Spider-Verse",
+        "description": "Miles Morales is a New York teen struggling with school, friends and, on top of that, being the new Spider-Man. When he comes across Peter Parker, the erstwhile saviour of New York, in the multiverse, Miles must train to become the new protector of his city.",
+        "runtime": "117 min",
+        "category_id": 1
+    }
+]
